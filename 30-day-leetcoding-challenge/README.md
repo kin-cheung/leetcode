@@ -1,0 +1,1 @@
+30day LeetCode Challenge was held during April 1st - April 30th 2020. One problem was posted everyday and problem solvers had a week to provide a solution to each posted problem within each week to complete the challenged to earn points.
