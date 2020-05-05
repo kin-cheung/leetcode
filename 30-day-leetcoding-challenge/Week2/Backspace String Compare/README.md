@@ -6,9 +6,9 @@ Note that after backspacing an empty text, the text will continue empty.
 
 Example 1:
 
-> **Input**: S = "ab#c", T = "ad#c"
-> **Output**: true
-> **Explanation**: Both S and T become "ac".
+``**Input**: S = "ab#c", T = "ad#c"
+**Output**: true
+**Explanation**: Both S and T become "ac".``
 
 Example 2:
 
